@@ -14,7 +14,7 @@ I am in my first year of studies, in the field of IT and Computer Science
 
 ### Links :
 
-You can find my main github account [here](github.com/mizkyosia)
+You can find my main github account [here](https://github.com/mizkyosia)
 
 All other links are on this account
 
