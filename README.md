@@ -2,6 +2,7 @@
 
 Hello !
 I am a student at JUNIA ISEN, a graduate school of Science and Engineering, located in [Lille, France](https://goo.gl/maps/Q8VMqHFJXkvehw1s6).
+
 I am in my first year of studies, in the field of IT and Computer Science
 
 ### Languages :
@@ -14,6 +15,7 @@ I am in my first year of studies, in the field of IT and Computer Science
 ### Links :
 
 You can find my main github account [here](github.com/mizkyosia)
+
 All other links are on this account
 
 <!--
